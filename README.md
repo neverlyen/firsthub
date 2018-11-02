@@ -1,1 +1,2 @@
 # firsthub
+Hello,AitSchool!
